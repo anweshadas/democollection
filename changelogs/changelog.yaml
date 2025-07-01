@@ -1,0 +1,8 @@
+ancestor: null
+releases:
+  0.0.1:
+    modules:
+    - description: A simple module plugin for Ansible to learn.
+      name: add
+      namespace: ''
+    release_date: '2025-07-01'
